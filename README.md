@@ -38,6 +38,8 @@ You will generate *two* visualizations in total (one white hat, one black hat). 
 - For the white hat visualization, it is not sufficient to just create a standard visualization and be done with it; you need to actively work to make your visualization as clear and transparent as possible!
 
 ### Acknowledgments: 
+This assignment was adapted from a [blog post by Niklas Elmqvist](https://niklaselmqvist.medium.com/teaching-ethics-for-visualization-b48e3ced84df).
+
 Data was obtained from the following sources:
 - U.S. Mass Shootings 1982-2019: [Mother Jones](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/)
 - OECD Greenhouse Gas Emissions 1990-2017: [OECD Statistics](https://stats.oecd.org/Index.aspx?DataSetCode=AIR_GHG)
