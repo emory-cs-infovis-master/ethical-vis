@@ -37,6 +37,15 @@ You will generate *two* visualizations in total (one white hat, one black hat). 
 - Similarly, it is interesting to consider that the notion of “black” vs “white” could depend on your political affiliation, personality, and background. However, you should strive to avoid this becoming an exercise in partisanship, but rather view black hat as being about obfuscation and white hat being about transparency.
 - For the white hat visualization, it is not sufficient to just create a standard visualization and be done with it; you need to actively work to make your visualization as clear and transparent as possible!
 
+## Grading: 
+For each the white hat and black hat visualizations: 
+- [6%] Titles, legends, and labels (if appropriate)
+- [10%] Description of the visualization (dataset, visual representation, etc.)
+- [2%] Clear label of which is white hat and which is black hat
+- [30%] Thoughtful description of design motivation as it relates to the goal of the white hat or black hat visualization
+- [2%] Inclusion of disclaimer
+
+
 ### Acknowledgments: 
 This assignment was adapted from a [blog post by Niklas Elmqvist](https://niklaselmqvist.medium.com/teaching-ethics-for-visualization-b48e3ced84df).
 
