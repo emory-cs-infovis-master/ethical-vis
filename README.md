@@ -32,6 +32,8 @@ You will generate *two* visualizations in total (one white hat, one black hat). 
 6. the following disclaimer: 
 > *DISCLAIMER: This visualization was created as part of a visualization ethics assignment. Please use the information presented here with caution, as it may have been intentionally designed to be misleading.*
 
+For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
+
 ## Tips:
 - There are limits to what you can do for the black hat visualization; for example, it doesn’t make sense to make up data entirely (but you may be forgiven for filtering inconvenient outliers).
 - Similarly, it is interesting to consider that the notion of “black” vs “white” could depend on your political affiliation, personality, and background. However, you should strive to avoid this becoming an exercise in partisanship, but rather view black hat as being about obfuscation and white hat being about transparency.
