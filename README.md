@@ -17,7 +17,7 @@ A **black hat** visualization, on the other hand, exhibits one or several of the
 - The source and provenance of the data is not clear to the viewer.
 
 ## Datasets:
-Choose *one* of the following three datasets. Use the same dataset for both visualizations. These datasets are intentionally chosen to cover politically charged topics for the simple reason that these are typically the type of data where ethical visualization is important. Be warned that some of these topics can be disturbing; avoid datasets that are difficult for you personally. *Note: You do not have to visualization the entire dataset! You may choose a subset of the data to visualize. This is useful because some of the datasets below are larger than others.*
+Choose *one* of the following three datasets. Use the same dataset for both visualizations. These datasets are intentionally chosen to cover politically charged topics for the simple reason that these are typically the type of data where ethical visualization is important. Be warned that some of these topics can be disturbing; avoid datasets that are difficult for you personally. *Note: You do not have to visualize the entire dataset! You may choose a subset of the data to visualize. This is useful because some of the datasets below are larger than others.*
 - **U.S. Mass Shootings 1982-2019**: a spreadsheet of mass shootings in the United States 
 - **OECD Greenhouse Gas Emissions 1990-2017**: emissions from different counties over the years
 - **New York City Police Complaints**: complaints filed against the NYPD 
