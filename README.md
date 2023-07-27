@@ -1,4 +1,4 @@
-# HW 4: Design Ethical Visualizations
+# HW: Design Ethical Visualizations
 
 There are a number of decisions that go into communicating with data and visualizations. The veracity and provenance of data thus becomes increasingly important. In particular, presenting data appropriately becomes an ethics and fairness concern. In this assignment, you will be visualizing a single dataset from two different perspectives: **white hat** and **black hat**.
 
