@@ -1,15 +1,13 @@
 # HW: Design Ethical Visualizations
 
-There are a number of decisions that go into communicating with data and visualizations. The veracity and provenance of data thus becomes increasingly important. In particular, presenting data appropriately becomes an ethics and fairness concern. In this assignment, you will be visualizing a single dataset from two different perspectives: **white hat** and **black hat**.
+There are a number of decisions that go into communicating with data and visualizations. The veracity and provenance of data thus becomes increasingly important. In particular, presenting data appropriately becomes an ethics and fairness concern. In this assignment, you will be visualizing a single dataset from two different perspectives: **ethical** and **unethical**.
 
-White hat v. black hat are terms from computer security, where a white hat hacker is someone who uses their skills for good, e.g., finding vulnerabilities in software and systems to help companies and their customers, and a black hat hacker uses them for their own (or their organization's or country's) gain.
-
-A **white hat** visualization is one where:
+An **ethical** visualization is one where:
 - The visualizations are clear and easy to interpret for the intended audience (often the general population);
 - Any transformations, filtering, and computations done to the data are clearly and transparently communicated; and
 - The sources of the data, including potential bias, are communicated.
 
-A **black hat** visualization, on the other hand, exhibits one or several of the following characteristics:
+An **unethical** visualization, on the other hand, exhibits one or several of the following characteristics:
 - The visual representation is intentionally inapproporiate, overly complex, and / or too cluttered for the audience;
 - Labels, axes, and legends are misleading;
 - Titles are skewed to intentionally influence the viewer's perception;
@@ -23,28 +21,28 @@ Choose *one* of the following three datasets. Use the same dataset for both visu
 - **New York City Police Complaints**: complaints filed against the NYPD 
 
 ## Submission:
-You will generate *two* visualizations in total (one white hat, one black hat). You are free to use any visualization technique and any visualization tool (or even draw by hand) to generate each submission. The white and black hat visualizations do not have to use the same tool or technique. For each visualization, include the following: 
+You will generate *two* visualizations in total (one ethical, one unethical). You are free to use any visualization technique and any visualization tool (or even draw by hand) to generate each submission. The ethical and unethical visualizations do not have to use the same tool or technique. For each visualization, include the following: 
 1. title (short sentence) describing the visualization,
 2. legend (if necessary),
 3. one-paragraph description of what the visualization shows (i.e., what dataset, attributes, trend, etc. is being depicted),
-4. clear annotation about which visualization is "white hat" and which is "black hat",
-5. one-paragraph description of design motivation, indicating the choice of visual encodings used and how it supports the goal of "white hat" or "black hat" presentation of data, and
+4. clear annotation about which visualization is "ethical" and which is "unethical",
+5. one-paragraph description of design motivation, indicating the choice of visual encodings used and how it supports the goal of "ethical" or "unethical" presentation of data, and
 6. the following disclaimer: 
 > *DISCLAIMER: This visualization was created as part of a visualization ethics assignment. Please use the information presented here with caution, as it may have been intentionally designed to be misleading.*
 
 For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
 ## Tips:
-- There are limits to what you can do for the black hat visualization; for example, it doesn’t make sense to make up data entirely (but you may be forgiven for filtering inconvenient outliers).
-- Similarly, it is interesting to consider that the notion of “black” vs “white” could depend on your political affiliation, personality, and background. However, you should strive to avoid this becoming an exercise in partisanship, but rather view black hat as being about obfuscation and white hat being about transparency.
-- For the white hat visualization, it is not sufficient to just create a standard visualization and be done with it; you need to actively work to make your visualization as clear and transparent as possible!
+- There are limits to what you can do for the unethical visualization; for example, it doesn’t make sense to make up data entirely (but you may be forgiven for filtering inconvenient outliers).
+- Similarly, it is interesting to consider that the notion of “unethical” vs “ethical” could depend on your political affiliation, personality, and background. However, you should strive to avoid this becoming an exercise in partisanship, but rather view unethical as being about obfuscation and ethical being about transparency.
+- For the ethical visualization, it is not sufficient to just create a standard visualization and be done with it; you need to actively work to make your visualization as clear and transparent as possible!
 
 ## Grading: 
-For each the white hat and black hat visualizations: 
+For each the ethical and unethical visualizations: 
 - [6%] Titles, legends, and labels (if appropriate)
 - [10%] Description of the visualization (dataset, visual representation, etc.)
-- [2%] Clear label of which is white hat and which is black hat
-- [30%] Thoughtful description of design motivation as it relates to the goal of the white hat or black hat visualization
+- [2%] Clear label of which is ethical and which is unethical
+- [30%] Thoughtful description of design motivation as it relates to the goal of the ethical or unethical visualization
 - [2%] Inclusion of disclaimer
 
 
